@@ -225,9 +225,11 @@
 	"sensor.infraredTrack": "红外线反射[MODE][PORT]",
 	"sensor.temperature": "温度感应器[PORT]",
 	"sensor.humidity": "湿度感应器[PORT]",
-	"sensor.lcdDisplay": "液晶显示[VALUE]",
+	"sensor.lcdAddress": "LCD地址[VALUE]",
+	"sensor.lcdDisplay": "液晶显示屏在第[ROW]行显示[VALUE]",
 	"sensor.motorStop": "停止马达",
-	"sensor.motorControl": "左马达转向为[DIRL]，速度为[POWERL]， 右马达转向为[DIRR]，速度为[POWERR]",
+    "sensor.motorControl": "左马达转向为[DIRL]，速度为[POWERL]， 右马达转向为[DIRR]，速度为[POWERR]",
+    "sensor.dht11": "读取[PIN]引脚 DHT11 [TYPE]",
 	"arduino.pinMode.Input": "输入",
 	"arduino.pinMode.Output": "输出",
 	"sensor.dataType.digital": "数字",
@@ -290,5 +292,7 @@
     "sensor.pin.A2": "A2",
     "sensor.pin.A3": "A3",
     "sensor.pin.A4": "A4",
-    "sensor.pin.A5": "A5"
+    "sensor.pin.A5": "A5",
+    "sensor.dht11.temperature": "温度",
+    "sensor.dht11.humidity": "湿度"
 }

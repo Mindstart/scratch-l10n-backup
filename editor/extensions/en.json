@@ -224,7 +224,6 @@
 	"arduino.infraredTrack": "IR Reflect [MODE] [PORT]",
 	"arduino.temperature": "Temperature [PORT]",
 	"arduino.humidity": "Humidity [PORT]",
-	"arduino.lcdDisplay": "LCD Display [VALUE]",
 	"arduino.motorStop": "Motor Stop",
 	"arduino.motorControl": "Motor L [DIRL] [POWERL] & Motor R [DIRR] [POWERR]",
 	"arduino.pinMode.Input": "Input",
@@ -269,6 +268,7 @@
     "arduino.pin.A4": "A4",
     "arduino.pin.A5": "A5",
     "sensor.ultrasonicDistance2W": "Read Ultrasonic Sensor (cm) Trig[TRIG]Echo[ECHO]",
+    "sensor.dht11": "Read [PIN] pin DHT11 [TYPE]",
     "sensor.pin.0": "0",
     "sensor.pin.1": "1",
     "sensor.pin.2": "2",
@@ -288,5 +288,9 @@
     "sensor.pin.A2": "A2",
     "sensor.pin.A3": "A3",
     "sensor.pin.A4": "A4",
-    "sensor.pin.A5": "A5"
+    "sensor.pin.A5": "A5",
+    "sensor.dht11.temperature": "temperature",
+    "sensor.dht11.humidity": "humidity",
+	"sensor.lcdAddress": "LCD Address [VALUE]",
+	"sensor.lcdDisplay": "LCD Display [VALUE] at row [ROW]"
 }
