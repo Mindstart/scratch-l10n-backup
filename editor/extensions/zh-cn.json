@@ -234,6 +234,7 @@
 	"sensor.motorStop": "停止马达",
     "sensor.motorControl": "左马达转向为[DIRL]，速度为[POWERL]， 右马达转向为[DIRR]，速度为[POWERR]",
     "sensor.dht11": "读取[PIN]引脚 DHT11 [TYPE]",
+    "sensor.sharp_ir": "读取引脚[PIN]引脚Sharp红外测距传感器（mm）",
 	"arduino.pinMode.Input": "输入",
 	"arduino.pinMode.Output": "输出",
 	"sensor.dataType.digital": "数字",

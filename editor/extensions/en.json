@@ -273,6 +273,7 @@
     "arduino.pin.A5": "A5",
     "sensor.ultrasonicDistance2W": "Read Ultrasonic Sensor (cm) Trig[TRIG]Echo[ECHO]",
     "sensor.dht11": "Read [PIN] pin DHT11 [TYPE]",
+    "sensor.sharp_ir": "Read pin [PIN] Sharp IR Distance Sensor(mm)",
     "sensor.pin.0": "0",
     "sensor.pin.1": "1",
     "sensor.pin.2": "2",
