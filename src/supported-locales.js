@@ -66,6 +66,10 @@ const customLocales = {
         locale: 'ab',
         parentLocale: 'az'
     },
+    'rap': {
+        locale: 'rap',
+        parentLocale: 'es'
+    },
     // TODO: replace zh-cn, zh-tw with zh-Hans and zh-Hant
     'zh-cn': {
         locale: 'zh-cn',
