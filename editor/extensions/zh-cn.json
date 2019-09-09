@@ -235,6 +235,9 @@
     "sensor.motorControl": "左马达转向为[DIRL]，速度为[POWERL]， 右马达转向为[DIRR]，速度为[POWERR]",
     "sensor.dht11": "读取[PIN]引脚 DHT11 [TYPE]",
     "sensor.sharp_ir": "读取引脚[PIN]引脚Sharp红外测距传感器（mm）",
+    "sensor.DS1302_setup": "设置DS1302 CLK引脚为[CLK]DAT引脚为[DAT]RST引脚为[RST]",
+    "sensor.DS1302": "调整DS1302时间为[YEAR]年[MONTH]月[DATE]日[HOUR]时[MINUTE]分[SECOND]秒",
+    "sensor.getDS1302": "读取DS1302时间[TYPE]",
 	"arduino.pinMode.Input": "输入",
 	"arduino.pinMode.Output": "输出",
 	"sensor.dataType.digital": "数字",
@@ -299,5 +302,12 @@
     "sensor.pin.A4": "A4",
     "sensor.pin.A5": "A5",
     "sensor.dht11.temperature": "温度",
-    "sensor.dht11.humidity": "湿度"
+    "sensor.dht11.humidity": "湿度",
+    "sensor.timeType.year": "年",
+    "sensor.timeType.month": "月",
+    "sensor.timeType.date": "日",
+    "sensor.timeType.hour": "时",
+    "sensor.timeType.minute": "分",
+    "sensor.timeType.second": "秒",
+    "sensor.timeType.day": "星期"
 }

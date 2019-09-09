@@ -274,6 +274,9 @@
     "sensor.ultrasonicDistance2W": "Read Ultrasonic Sensor (cm) Trig[TRIG]Echo[ECHO]",
     "sensor.dht11": "Read [PIN] pin DHT11 [TYPE]",
     "sensor.sharp_ir": "Read pin [PIN] Sharp IR Distance Sensor(mm)",
+    "sensor.DS1302_setup": "Set DS1302 CLK pin [CLK] DAT pin [DAT] RST pin [RST]",
+    "sensor.DS1302": "Adjust the DS1302 time to [YEAR] Year [MONTH] Month [DATE] Date [HOUR] Hour [MINUTE] Minute [SECOND] Second",
+    "sensor.getDS1302": "Get DS1302 Time [TYPE]",
     "sensor.pin.0": "0",
     "sensor.pin.1": "1",
     "sensor.pin.2": "2",
@@ -297,5 +300,12 @@
     "sensor.dht11.temperature": "temperature",
     "sensor.dht11.humidity": "humidity",
 	"sensor.lcdAddress": "LCD Address [VALUE]",
-	"sensor.lcdDisplay": "LCD Display [VALUE] at row [ROW]"
+	"sensor.lcdDisplay": "LCD Display [VALUE] at row [ROW]",
+    "sensor.timeType.year": "year",
+    "sensor.timeType.month": "month",
+    "sensor.timeType.date": "date",
+    "sensor.timeType.hour": "hour",
+    "sensor.timeType.minute": "minute",
+    "sensor.timeType.second": "second",
+    "sensor.timeType.day": "day"
 }
