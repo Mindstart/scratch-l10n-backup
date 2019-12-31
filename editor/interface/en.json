@@ -124,6 +124,7 @@
     "gui.menuBar.turboModeOn": "Turn on Turbo Mode",
     "gui.menuBar.joinScratch": "Join Scratch",
     "gui.menuBar.signIn": "Sign in",
+    "gui.menuBar.arduinoPanel": "Code Converter",
     "gui.arduino-panel.translate": "Translate",
 	"gui.arduino-panel.restore": "Restore",
 	"gui.arduino-panel.upload": "Upload",
