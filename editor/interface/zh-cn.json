@@ -236,7 +236,7 @@
     "gui.extensionLibrary.chooseAnExtension": "选择一个扩展",
     "gui.extensionLibrary.extensionUrl": "键入扩展的URL",
     "gui.gui.defaultProjectTitle": "Scratch作品",
-	"gui.gui.welcomeMsg": "欢迎使用Ainoview",
+	"gui.gui.welcomeMsg": "欢迎使用AinoView",
 	"gui.gui.emptyPort": "错误：未选择上传端口。",
 	"gui.gui.errorPort": "错误：未收到端口选项。",
 	"gui.gui.errorConnect": "错误：无法连接后台程序。",
