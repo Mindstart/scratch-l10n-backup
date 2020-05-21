@@ -372,7 +372,11 @@
     "sensor.which.rightfront": "右前轮",
     "sensor.which.leftfront": "左前轮",
     "sensor.which.rightback": "右后轮",
-    "sensor.which.leftback": "左前轮",
+    "sensor.which.leftback": "左后轮",
     "sensor.wheeldirect.forward": "正转",
-    "sensor.wheeldirect.reverse": "反转"
+    "sensor.wheeldirect.reverse": "反转",
+    "sensor.mecanumWheelStatus": "麦克娜姆轮[STATUS]，速度度为[SPEED]",
+    "sensor.wheelstatus.forward": "前进",
+    "sensor.wheelstatus.back": "后退",
+    "sensor.wheelstatus.stop": "停止"
 }
