@@ -443,6 +443,7 @@
     "gui.extension.motor.description": "机器人马达",
     "gui.extension.display.description": "机器人显示器",
     "gui.extension.gdxfor.description": "感受推拉动转。",
+    "gui.extension.keypad.description": "键盘",
     "gui.extension.gdxfor.connectingMessage": "正在连接",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",

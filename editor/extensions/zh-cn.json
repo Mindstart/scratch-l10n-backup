@@ -282,7 +282,7 @@
     "display.segmentDisplayLatch": "设置 2 bit 数码管显示数字[NUM] (latch)",
     "display.reset2BitSegmentLatch": "重置 2 bit 数码管 (latch)",
     "display.initTM16374DigitDisplay": "初始化TM1637 4位数码管 CLK [CLK_PIN] DIO [DIO_PIN]",
-    "display.TM1637Display": "设置TM1637 4位数码管，显示冒号[DOT_STATUS] ，高位补0[LEADING_ZERO]",
+    "display.TM1637Display": "设置TM1637 4位数码管显示数字[NUM]，显示冒号[DOT_STATUS] ，高位补0[LEADING_ZERO]",
     "display.resetTM1637Display": "重置TM1637 4位数码管",
     "motor.motorStop": "停止马达",
     "motor.motorControl": "左马达转向为[DIRL]，速度为[POWERL]， 右马达转向为[DIRR]，速度为[POWERR]",
@@ -383,5 +383,8 @@
     "sensor.mecanumWheelStatus": "麦克娜姆轮[STATUS]，速度度为[SPEED]",
     "sensor.wheelstatus.forward": "前进",
     "sensor.wheelstatus.back": "后退",
-    "sensor.wheelstatus.stop": "停止"
+    "sensor.wheelstatus.stop": "停止",
+    "keypad.initKeypad4X3": "初始化键盘 4 行 [ROW_1][ROW_2][ROW_3][ROW_4] 3 列 [COLUMN_1][COLUMN_2][COLUMN_3]",
+    "keypad.gotKeyValue": "有按键被按下?",
+    "keypad.keyValue": "按键名称"
 }

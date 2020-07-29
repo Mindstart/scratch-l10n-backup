@@ -433,6 +433,7 @@
     "gui.extension.motor.description": "Supplies motive power for robot.",
     "gui.extension.display.description": "Visual presentation of data.",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
+    "gui.extension.keypad.description": "For typing numbers, and symbols.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",

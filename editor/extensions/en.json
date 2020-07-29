@@ -381,5 +381,8 @@
     "sensor.mecanumWheelStatus": "mecanum [STATUS] speed [SPEED]",
     "sensor.wheelstatus.forward": "forward",
     "sensor.wheelstatus.back": "back",
-    "sensor.wheelstatus.stop": "stop"
+    "sensor.wheelstatus.stop": "stop",
+    "keypad.initKeypad4X3": "Init Keypad 4 rows [ROW_1][ROW_2][ROW_3][ROW_4] 3 columns [COLUMN_1][COLUMN_2][COLUMN_3]",
+    "keypad.gotKeyValue": "Got a key value?",
+    "keypad.keyValue": "Key Value"
 }
