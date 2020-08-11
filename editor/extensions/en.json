@@ -323,7 +323,7 @@
     "display.segmentDisplayLatch": "Set 2 bit 7 segment display[NUM] (latch)",
     "display.reset2BitSegmentLatch": "Reset 2 bit segment (latch)",
     "display.initTM16374DigitDisplay": "Init TM1637 4-digit Display CLK [CLK_PIN] DIO [DIO_PIN]",
-    "display.TM1637Display": "Set TM1637 4-digit Display [NUM] dot [DOT_STATUS] leading_zero [LEADING_ZERO]",
+    "display.TM1637Display": "Set TM1637 4-digit Display [NUM] colon [DOT_STATUS] leading_zero [LEADING_ZERO]",
     "display.resetTM1637Display": "Reset TM1637 4-digit Display",
     "sensor.timeType.year": "year",
     "sensor.timeType.month": "month",
